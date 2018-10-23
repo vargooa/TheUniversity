@@ -13,6 +13,7 @@
   * 传文件问题，远程桌面&gt;显示选项&gt;本地资源&gt;详细信息&gt;驱动器&gt;选择打钩  然后远程连接后就可以看到本地资源
 
 * 转念一想，我要不要还是用CentOS来安装Oracle吧。就这是这样闲的没事。
+
 * 下载Oracle 11gR2的安装软件
 
 ### 心得
@@ -41,6 +42,19 @@ unzip linuxof1.zip
 unzip linuxof2.zip
 ```
 
-* 
+* 安装vim，用于编辑配置文件
+
+```
+yum install vim -y
+```
+
+* 在/etc/hosts文件中添加主机名
+
+```
+hostname
+vim /etc/hosts
+添加 ip hostname
+```
+
 
 
