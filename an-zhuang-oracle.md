@@ -53,8 +53,13 @@ yum install vim -y
 ```
 hostname
 vim /etc/hosts
-添加 ip hostname
+添加 192.168.9.245 hostname.localdomain
 ```
+
+* 参考链接
+* https://my.oschina.net/u/3406827/blog/889225
+
+
 
 
 
