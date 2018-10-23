@@ -57,9 +57,7 @@ vim /etc/hosts
 ```
 
 * 参考链接
-* https://my.oschina.net/u/3406827/blog/889225
-
-
+* [https://my.oschina.net/u/3406827/blog/889225](https://my.oschina.net/u/3406827/blog/889225)
 
 
 
