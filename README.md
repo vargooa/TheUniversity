@@ -1,3 +1,6 @@
-# My Awesome Book
+# 编译原理
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+> 编译原理是我大学里面比较好玩的一堂课，希望通过GitBook来记录一些东西。保持自己的学习状态，让自己可以总结和思考，规整一些知识点吧。虽然也只是零零散散的随意记录一些。当我相信坚持下去，以后回头看过来的时候，也是一笔财富，可以让自己保存记录吧。
+
+
+
