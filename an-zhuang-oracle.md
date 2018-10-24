@@ -22,40 +22,6 @@
 
 ### 安装步骤
 
-* root登录操作系统
-
-```
-yum -y update
-```
-
-* yum安装unzip软件来解压文件。
-
-```
-yum install unzip -y
-```
-
-* 上传到home目录，然后解压，会在/opt下有一个database文件夹，里面是Oracl11g的安装文件
-
-```
-cd /home
-unzip linuxof1.zip
-unzip linuxof2.zip
-```
-
-* 安装vim，用于编辑配置文件
-
-```
-yum install vim -y
-```
-
-* 在/etc/hosts文件中添加主机名
-
-```
-hostname
-vim /etc/hosts
-添加 192.168.9.245 hostname.localdomain
-```
-
 * 参考链接
 * [https://my.oschina.net/u/3406827/blog/889225](https://my.oschina.net/u/3406827/blog/889225)
 * 文件可能是损坏的，通过浏览器下载，不是通过迅雷。
@@ -65,6 +31,9 @@ vim /etc/hosts
 ```
 https://apex.oracle.com/en/learn/getting-started/
 ```
+
+* 还是最后使用windows来安装。可怕的我
+* 一定要先安装软件再创建数据库，不然会很慢，在倒数第二步的时候。
 
 
 
