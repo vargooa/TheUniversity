@@ -58,6 +58,13 @@ vim /etc/hosts
 
 * 参考链接
 * [https://my.oschina.net/u/3406827/blog/889225](https://my.oschina.net/u/3406827/blog/889225)
+* 文件可能是损坏的，通过浏览器下载，不是通过迅雷。
+* 好吧，我放弃了。
+* 我使用了Oracle提供的免费的空间来用来学习。
+
+```
+https://apex.oracle.com/en/learn/getting-started/
+```
 
 
 
