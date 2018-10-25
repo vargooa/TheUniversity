@@ -16,19 +16,10 @@
 
 * 下载Oracle 12gR2的安装软件，需要登录才能下载。
 
-### 安装步骤
+* 提一下，Oracle有免费的使用空间，你可以通过Web来进行操作。[Oracle-APEX&gt;&gt;&gt;](https://apex.oracle.com/en/learn/getting-started/)
 
-* 参考链接
-* [https://my.oschina.net/u/3406827/blog/889225](https://my.oschina.net/u/3406827/blog/889225)
-* 文件可能是损坏的，通过浏览器下载，不是通过迅雷。
-* 好吧，我放弃了。
-* 我使用了Oracle提供的免费的空间来用来学习。
+### 准备工作
 
-```
-https://apex.oracle.com/en/learn/getting-started/
-```
-
-* 还是最后使用windows来安装。可怕的我
 * 一定要先安装软件再创建数据库，不然会很慢，在倒数第二步的时候。
 
 
