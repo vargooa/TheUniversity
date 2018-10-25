@@ -40,6 +40,8 @@
 >     * 》开始》程序》Oracle 12g Home1》Configuration and Migration Tools》Database Configuration Assistant 命令
 >     * 》racle安装目录下的bin文件夹下》dbca.bat的批处理文件
 >   * 创建过程
+>     * 创建数据库&gt;一般用途&gt;全局数据库名&gt;SID&gt;为多个默认账号设置密码&gt;最后会自动安装
+>     * 注释：全局数据库名由数据库名+域名组成。域名对于分布式数据库部署具有重要意义，对于局域网内的独立数据库，无须指定域名。
 
 
 
