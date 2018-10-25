@@ -92,10 +92,14 @@
 ### 总结
 
 ```
+# 创建用户默认是user表空间
 create user c##vargoo
 identified by liuxh123;
+# 授权
 grant connect,resource to c##vargoo;
+# 更改限制
 alter user c##vargoo quota unlimited on USERS;
+# 删除用户
 select username,sid,serial# from  v$session;
 alter system kill session '54,54641';
 drop user c##vargoo cascade;
