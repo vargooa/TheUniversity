@@ -83,6 +83,8 @@
 * 公共用户名或角色名无效
   * 角色名加上c\#\#
   * Oracle引入了[CDB和PDB的新特性》》》](https://www.cnblogs.com/fzj16888/p/5538137.html)
+* 对表空间无权限
+  * 
 
 
 
