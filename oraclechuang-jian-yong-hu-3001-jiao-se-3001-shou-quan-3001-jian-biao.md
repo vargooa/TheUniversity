@@ -67,7 +67,16 @@
 
 * 创建角色
 
-> 除了前面的三种系统角色，用户还可以在oracle创建自己的role。用户创建的role可以由表或系统权限或两者的组合构成。为了创建role，用户必须具有create role系统权限。
+> 除了前面的三种系统角色，用户还可以在oracle创建自己的role。用户创建的role可以由表或系统权限或两者的组合构成。为了创建role，用户必须具有create role系统权限
+>
+> ```
+> # 创建角色
+> create role 角色名；
+> # 授权角色 --拥有了对class表的查询权限
+> grant select on class to 角色名；
+> # 删除角色
+> drop role 角色名
+> ```
 
 
 
