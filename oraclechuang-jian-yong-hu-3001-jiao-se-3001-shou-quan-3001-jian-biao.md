@@ -89,5 +89,17 @@
 
   * alter user 数据库用户名 quota unlimited on USERS;
 
+### 总结
+
+```
+create user c##vargoo
+identified by liuxh123;
+grant connect,resource to c##vargoo;
+alter user c##vargoo quota unlimited on USERS;
+select username,sid,serial# from  v$session;
+alter system kill session '54,54641';
+drop user c##vargoo cascade;
+```
+
 
 
