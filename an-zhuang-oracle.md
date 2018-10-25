@@ -65,7 +65,7 @@
 >     * 》程序》Oracle 12g Home1》Configuration and Migration Tools》Net Manager命令
 >     * 监听位置LISTENE查看协议、主机、端口号
 >     * 数据库服务可以查看监听了哪些数据库服务
->     * 可以通过新建添加链接
+>     * 可以通过新建添加链接，作用同网络配置助手
 
 
 
