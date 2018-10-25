@@ -36,8 +36,10 @@
 >
 > * 数据库配置助手
 >   * 创建Oracle数据库一般使用数据库配置助手\(Datable Configuration Assistant\)
->   * 》开始》程序》Oracle 12g Home1》Configuration and Migration Tools》Database Configuration Assistant 命令
->   * 》racle安装目录下的bin文件夹下》dbca.bat的批处理文件
+>   * 打开步骤
+>     * 》开始》程序》Oracle 12g Home1》Configuration and Migration Tools》Database Configuration Assistant 命令
+>     * 》racle安装目录下的bin文件夹下》dbca.bat的批处理文件
+>   * 创建过程
 
 
 
