@@ -49,6 +49,8 @@
 >     * 》开始》程序》Oracle 12g Home1》Configuration and Migration Tools\|Net Configuration Assistant命令
 >   * 创建过程
 >     * 监听程序配置&gt;添加&gt;默认LISTENER&gt;TCP&gt;1521&gt;不要更多监听配置&gt;配置完成
+>     * 注意：在Oracle安装目录{ORACLE\_HOME}\NETWORK\ADMIN下，会新建一个名为listener.ora的文件
+>     * 其中listener是监听程序的端口，而SDI\__LIST\__LISTNER则指定监听程序要负责对那些数据进行监听。
 
 
 
