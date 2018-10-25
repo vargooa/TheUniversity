@@ -46,7 +46,7 @@
 >   * 主要用于Oracle数据库的监听程序、命名方法、本地NET服务名和目录配置。网络配置助手以向导的形式出现，适合初级用户使用
 >   * 1.监听配置程序\(Listener\)是Oracle服务器端的一种网络服务，监听程序创建在数据库服务器端，主要作用是监听客户端的连接请求。基于端口，会占用一个端口。
 >   * 打开步骤
->     * 》开始》程序》Oracle 12g Home1》Configuration and Migration Tools\|Net Configuration Assistant命令
+>     * 》开始》程序》Oracle 12g Home1》Configuration and Migration Tools》Net Configuration Assistant命令
 >   * 创建过程
 >     * 监听程序配置&gt;添加&gt;默认LISTENER&gt;TCP&gt;1521&gt;不要更多监听配置&gt;配置完成
 >     * 注意：在Oracle安装目录{ORACLE\_HOME}\NETWORK\ADMIN下，会新建一个名为listener.ora的文件
@@ -58,6 +58,12 @@
 >     * 注释：数据库服务名填写要连接数据库的全局数据库名，默认ORCL。
 >     * 端口号要和监听的端口号一致。
 >     * {ORACLE\_HOME}\NETWORD\ADMIN\tnsnames.ora中会有Net服务名
+> * 网络管理员工具——Net Manager
+>   * Net Manager具有和Net Configuration Assistant具有相似的功能。主要用于管理和配置本地服务命名和监听程序。
+>   * 选择已配置的服务名，可以查看：服务名\(全局数据库名\)、协议\(TCP/IP\)、主机名\(127.0.0.1\)和端口号1521。
+>   * 打开步骤
+>     * 》程序》Oracle 12g Home1》Configuration and Migration Tools》Net Manager命令
+>     *
 
 
 
