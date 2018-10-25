@@ -68,6 +68,7 @@
 >     * 可以通过新建添加链接，作用同网络配置助手
 >     * 可以通过文件\|保存网络配置保存
 > * Oracle自带的客户端——sqlplus/sqlplusw
+>
 >   * sqlplus是最方便、最常用的Oracle客户端工具，只要安装了软件就会安装了sqlplus，sqlplusw只是在基础上添加了一个窗口，在上面执行SQL语句与sqlplus相同。
 >   * 主要应用场景为查看/设置数据库参数、执行SQL脚本等。
 >   * 命令窗口下登录
@@ -77,6 +78,30 @@
 >   # username/password 登录数据库的用户名和密码
 >   # netservicename 要进行数据库连接的本地Net服务名
 >   ```
+>
+>   * sqlplus常用功能查看数据库参数
+>
+>   ```
+>   show parameter instance_name
+>   # 要求数据库显示的参数
+>   # instance为参数名称
+>   ```
+>
+> *
+
+
+
+> *
+
+
+
+> *
+
+
+
+> *
+
+
 
 
 
