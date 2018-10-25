@@ -84,7 +84,9 @@
   * 角色名加上c\#\#
   * Oracle引入了[CDB和PDB的新特性》》》](https://www.cnblogs.com/fzj16888/p/5538137.html)
 * 对表空间无权限
-  * 
+  * 第 1 行出现错误:ORA-01950: 对表空间 'USERS'无权限
+
+  * alter user 数据库用户名 quota unlimited on USERS;
 
 
 
