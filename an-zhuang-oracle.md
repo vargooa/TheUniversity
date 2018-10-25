@@ -16,7 +16,7 @@
 
 * 下载Oracle 12gR2的安装软件，需要登录才能下载。
 
-* 提一下，Oracle有免费的使用空间，你可以通过Web来进行操作。[Oracle-APEX&gt;&gt;&gt;](https://apex.oracle.com/en/learn/getting-started/)
+* 提一下，Oracle有免费的使用空间，如果你只是联系使用命令。你可以通过Web来进行操作。[Oracle-APEX&gt;&gt;&gt;](https://apex.oracle.com/en/learn/getting-started/)
 
 ### 准备工作
 
