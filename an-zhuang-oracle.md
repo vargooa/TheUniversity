@@ -18,7 +18,7 @@
 
 * 提一下，Oracle有免费的使用空间，如果你只是联系使用命令。你可以通过Web来进行操作。[Oracle-APEX&gt;&gt;&gt;](https://apex.oracle.com/en/learn/getting-started/)
 
-### 准备工作
+### 安装步骤
 
 * Windows Server2008服务器、官网安装包。
 
