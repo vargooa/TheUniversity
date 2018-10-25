@@ -63,7 +63,8 @@
 >   * 选择已配置的服务名，可以查看：服务名\(全局数据库名\)、协议\(TCP/IP\)、主机名\(127.0.0.1\)和端口号1521。
 >   * 打开步骤
 >     * 》程序》Oracle 12g Home1》Configuration and Migration Tools》Net Manager命令
->     *
+>     * 监听位置LISTENE查看协议、主机、端口号
+>     * 数据库服务可以查看监听了哪些数据库服务
 
 
 
