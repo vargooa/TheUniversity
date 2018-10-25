@@ -30,3 +30,15 @@
 
 
 
+### 数据表
+
+> Oracle数据库和数据表是所有Oracle数据库对象的基础。Oracle数据库与其他数据库在逻辑结构上与其他数据库不同在于Oracle提出了表空间的概念。
+>
+> 创建Oracle数据库
+>
+> * 数据库配置助手
+>   * 创建Oracle数据库一般使用数据库配置助手\(Datable Configuration Assistant\)
+>   * 》开始》程序》Oracle 12g Home1》Configuration and Migration Tools》Database Configuration Assistant 命令
+
+
+
