@@ -13,4 +13,6 @@
 * [Word插入目录](wordcha-ru-mu-lu.md)
 * [每天该做的事情](mei-tian-gai-zuo-de-shi-qing.md)
 * [感受](gan-shou.md)
+* [前端之路](qian-duan-zhi-lu.md)
+* [Git](git.md)
 
