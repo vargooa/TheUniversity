@@ -14,7 +14,7 @@
 
 * [ ] 学习oracle
 * [ ] 去看鲁泰服装展，签到
-* [ ] 使用notation
+* [ ] 使用notation、todolist
 
 * [ ] 整理软件和桌面
 
