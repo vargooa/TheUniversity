@@ -6,7 +6,5 @@
 
 [一个在线的UML画图，可以画组件需求接口》》》](https://online.visual-paradigm.com/cn/features/uml-tool/)
 
-
-
-
+[》》类图与类的关系详解》》》](http://www.uml.org.cn/oobject/201104212.asp)
 
