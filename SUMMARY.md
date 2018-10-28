@@ -7,6 +7,7 @@
 * [Oracle创建用户、角色、授权、建表](oraclechuang-jian-yong-hu-3001-jiao-se-3001-shou-quan-3001-jian-biao.md)
 * [Oracle基本的SQL语句](oracleji-ben-de-sql-yu-ju.md)
 * [GitBook使用教程](gitbookshi-yong-jiao-cheng.md)
+* [Oracle查询语句](oraclecha-xun-yu-ju.md)
 * [沂蒙山观后感——入党积极分子](yi-meng-shan-guan-hou-gan-2014-2014-ru-dang-ji-ji-fen-zi.md)
 * [UML\_包图](umlbao-tu.md)
 * [Redis的基本使用](redisde-ji-ben-shi-yong.md)
@@ -15,5 +16,5 @@
 * [感受](gan-shou.md)
 * [前端之路](qian-duan-zhi-lu.md)
 * [Git](git.md)
-* [Vargoo的网站](vargoode-wang-zhan.md)
+* Oracle查询语句
 
