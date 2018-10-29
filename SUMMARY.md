@@ -16,5 +16,6 @@
 * [感受](gan-shou.md)
 * [前端之路](qian-duan-zhi-lu.md)
 * [Git](git.md)
-* Oracle查询语句
+* [Oracle查询语句](oraclecha-xun-yu-ju.md)
+* [Oracle乱七八糟](oracleluan-qi-ba-zao.md)
 
